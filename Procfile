@@ -1,1 +1,1 @@
-worker: python3 samplemud.py
+worker: python3 simplemud.py
